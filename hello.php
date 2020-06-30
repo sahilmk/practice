@@ -1,7 +1,7 @@
 <?php
-echo "hello thi is my website";
-$d=20;
-$m=12;
-$y=2001;
-echo "<br>"."my birth date :".$d."-".$m."-".$y; 
- ?>
+if(10>2 || 10>30):
+  echo "helllo";
+else:
+  echo "world";
+endif;
+?>
